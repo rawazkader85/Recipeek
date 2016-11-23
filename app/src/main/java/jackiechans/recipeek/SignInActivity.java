@@ -1,15 +1,15 @@
 package jackiechans.recipeek;
 
+/**
+ * Created by jyyae86 on 2016-11-20.
+ */
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
-
-    @Override
+public class SignInActivity extends AppCompatActivity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
+        setContentView(R.layout.activity_sign_in);
     }
 }
-//Jacky made comments
