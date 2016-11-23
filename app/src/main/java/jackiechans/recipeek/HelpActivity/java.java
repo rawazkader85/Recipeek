@@ -5,5 +5,5 @@ package jackiechans.recipeek.HelpActivity;
  */
 
 public class java {
-    private String helpText = "Hello";
+    private String helpText = "Welcome to Recipeek!";
 }
